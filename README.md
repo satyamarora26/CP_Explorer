@@ -55,7 +55,7 @@ Let's solve algorithms with ease using CP Explorer! Happy hacking! 🌟
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
 <p align="center">
-    <a href="https://https://www.linkedin.com/in/satyamarora28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://https://www.linkedin.com/in/satyamarora28/" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/satyamarora_26/" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
      <a href="mailto:satyamarora222@gmail.com" target="_blank"><img alt="Gmail" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp&nbsp&nbsp
    </p>
