@@ -19,7 +19,7 @@ CPExplorer is an innovative search engine that simplifies your exploration of al
   
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/Harsh1629/CodeQuest.git`
+1. Clone the repository: `git clone https://github.com/satyamarora26/CP_Explorer.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
    
