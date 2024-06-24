@@ -16,7 +16,13 @@ CPExplorer is an innovative search engine that simplifies your exploration of al
 - **TF-IDF Algorithm:** Utilizes TF-IDF to deliver precise and relevant search results.
 - **Real-time Results:** Enjoy real-time updates while searching for your next challenge.
 - **Seamless Navigation:** Constructed with Next.js for swift and effortless navigation.
+  
+## Getting Started
 
+1. Clone the repository: `git clone https://github.com/Harsh1629/CodeQuest.git`
+2. Install dependencies: `npm install`
+3. Run the app: `npm run dev`
+   
 ## Project Structure
 
 - `src/`: Contains the frontend code built with Next.js.
