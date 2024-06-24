@@ -2,8 +2,8 @@
 
 
 
-Welcome to CPExplorer, a project developed for the AlgoZenith WebDev Hackathon! 🚀
-https://cpexplorer.netlify.app/
+Welcome to CPExplorer, a project developed for the AlgoZenith WebDev Hackathon! 🚀<br>
+Check out the live version of CP Explorer at https://cpexplorer.netlify.app/
 
 ## About CPExplorer
 
